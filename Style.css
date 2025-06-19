@@ -1,0 +1,29 @@
+#Water {
+    color: deepskyblue
+  }
+body {
+    padding-bottom: 30px;
+}
+
+#Supply {
+    
+    background-color: #585151;
+    color: white;
+}
+#Home {
+    background-color: #1c7077;
+    color: white;
+}
+
+.year {
+    
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.footer {
+  padding: 20px 0;
+  margin-top: 40px;
+  background-color:deepskyblue;
+  font-weight: bold;
+}
